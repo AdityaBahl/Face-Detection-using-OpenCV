@@ -1,4 +1,4 @@
-#Face Recognition Application using OpenCV and Tkinter GUI
+# Face Recognition Application using OpenCV and Tkinter GUI
 
 # IMPORTING LIBRARIES
 
@@ -45,7 +45,7 @@ improve the accuracy and efficiency of face detection algorithms. OpenCV provide
 source platform for researchers and developers to experiment with and contribute to the
 advancement of face detection technology.
 
-# Algorithm:-
+# Algorithm
 
 Here are the steps to detect faces in an image using OpenCV:
 
@@ -65,7 +65,7 @@ Here are the steps to detect faces in an image using OpenCV:
 7. Display the image using the imshow function from the cv2 library and wait for the user to
    close the window using the waitKey function.
 
-# Challenges and limitations of OpenCV:-
+# Challenges and limitations of OpenCV
 
 There are a few limitations to using OpenCV for face detection:
 
