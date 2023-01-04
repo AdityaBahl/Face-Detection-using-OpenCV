@@ -3,9 +3,10 @@
 # IMPORTING LIBRARIES
 
 Python libraries like :-
-• Tkinter :- used for GUI(Graphical User Interface)
-• cv2 :- OpenCV used for face detection
-• subprocess:- used to run system level script
+
+1. Tkinter :- used for GUI(Graphical User Interface)
+2. cv2 :- OpenCV used for face detection
+3. subprocess:- used to run system level script
 
 # Why Face Detection?
 
