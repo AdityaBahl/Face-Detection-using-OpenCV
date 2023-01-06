@@ -5,6 +5,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import cv2
 import subprocess
+from tkinter import PhotoImage, Label
 
 # Create the main window
 window = tk.Tk()
@@ -122,10 +123,18 @@ menu_bar.add_command(label='Applications', command=applications)
 menu_bar.add_command(label='Report', command=report)
 
 # Create a label with text for Application Name
-label = tk.Label(window, text="  Face Detection", font=("Helvetica", 25))
+label = tk.Label(window, text="Face Detection", font=("Helvetica", 25))
 
 # Add the label to the window
 label.grid()
+
+
+# Load the image for logo
+image = PhotoImage(file="image.png")
+label = Label(image=image)
+label.place(x=0, y=80, relwidth=0.2, relheight=0.2)
+
+
 
 #Button 1
 button1 = tk.Button(window, text='Face Detection for sample image(s)',
