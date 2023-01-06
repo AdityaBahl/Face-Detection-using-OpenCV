@@ -1,6 +1,6 @@
-# Face Recognition Application using OpenCV and Tkinter GUI
+# Face Detection Application using OpenCV and Tkinter GUI
 
-# IMPORTING LIBRARIES
+# IMPORTED LIBRARIES
 
 Python libraries like :-
 
