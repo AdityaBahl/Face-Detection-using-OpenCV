@@ -82,15 +82,35 @@ mentioned above, and there are quite a few correct solutions too, I will explore
 
 # Processes or Stages
 
+### Run via PowerShell
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/1.png)
+
+### GUI
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/2.png)
+
+### Selection of modes for Image Analysis
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/3.png)
+
+### About the dev
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/6.png)
+
+### About Project
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/4.png)
+
+### Applications of Project
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/5.png)
+
+### Result
+
 ![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/7.png)
 
-### MIT Licence
+## MIT Licence
 
 **Copyright (c) 2023 Aditya Bahl**
 
