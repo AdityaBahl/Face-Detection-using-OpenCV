@@ -1,14 +1,5 @@
 # Face Detection Application using OpenCV and Tkinter GUI
 
-<<<<<<< HEAD
-https://user-images.githubusercontent.com/90335449/211381601-967a6dc3-7ab5-4857-be80-ef76fb9b2bcd.mp4
-
-=======
-
-[Video][https://synthesia-ttv-data.s3-eu-west-1.amazonaws.com/video_data/6a0918e6-2650-4d1a-86fe-0bee589af879/transfers/target_transfer.mp4]
-
-> > > > > > > 502b0243237d524c9f7012be1df1781781c34fc6
-
 # IMPORTED LIBRARIES
 
 Python libraries like :-
@@ -88,6 +79,16 @@ There are a few limitations to using OpenCV for face detection:
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
 removing errors is what we must learn. The project may not give accurate results in some cases as
 mentioned above, and there are quite a few correct solutions too, I will explore this domain further.
+
+# Processes or Stages
+
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/1.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/2.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/3.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/6.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/4.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/5.png)
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/7.png)
 
 ### MIT Licence
 
