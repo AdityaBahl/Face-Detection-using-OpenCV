@@ -58,7 +58,7 @@ There are a few limitations to using OpenCV for face detection:
    trained well or if it is not well-suited to the images it is being applied to, it may not perform
    as well. This can lead to false positives (detecting a face where there is none) or false
    negatives (failing to detect a face that is present).
-2. Limited ability to customize the classifier: The face detection classifier included with OpenCV
+2. **_Limited ability to customize the classifier:_** The face detection classifier included with OpenCV
    is pre-trained and cannot be easily customized. This means that you cannot easily adjust the
    classifier to better suit your specific needs or to improve its performance on a particular
    dataset.
