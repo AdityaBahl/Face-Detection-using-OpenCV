@@ -38,7 +38,7 @@ Here are the steps to detect faces in an image using OpenCV:
    NumPy array representing the image.
 3. Convert the image to **_grayscale using the cvtColor_** function from the cv2 library. This is
    typically done because face detection algorithms are more sensitive to grayscale images.
-4. Load the pre-trained face detection classifier using the CascadeClassifier function from the
+4. Load the **_pre-trained face detection classifier using the CascadeClassifier function_** from the
    cv2 library. This classifier is trained to recognize common patterns in images that are
    characteristic of faces.
 5. Use the detectMultiScale method of the CascadeClassifier object to detect faces in the
