@@ -41,8 +41,8 @@ Here are the steps to detect faces in an image using OpenCV:
 4. Load the **_pre-trained face detection classifier using the CascadeClassifier function_** from the
    cv2 library. This classifier is trained to recognize common patterns in images that are
    characteristic of faces.
-5. Use the detectMultiScale method of the CascadeClassifier object to detect faces in the
-   image. This method returns a list of rectangles, each representing a face in the image.
+5. Use the **_detectMultiScale method_** of the CascadeClassifier object to detect faces in the
+   image. This method returns a list of **_rectangles_**, each representing a face in the image.
 6. Iterate through the list of rectangles and draw a rectangle around each face using the
    rectangle function from the cv2 library. You can specify the color and thickness of the
    rectangle using the color and thickness parameters.
