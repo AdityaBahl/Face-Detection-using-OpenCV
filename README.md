@@ -65,7 +65,7 @@ There are a few limitations to using OpenCV for face detection:
 3. **_May not work well on images with low resolution or poor lighting:_** Face detection algorithms
    can be sensitive to the resolution and quality of the input images. If the images are low
    resolution or have poor lighting, the classifier may not perform as well.
-4. May not work well on faces with unusual or extreme appearance: Face detection algorithms
+4. **_May not work well on faces with unusual or extreme appearance:_** Face detection algorithms
    are designed to detect "typical" faces, and they may not perform as well on faces with
    unusual or extreme appearance, such as very large or small faces, or faces with unusual
    facial features or expressions.
