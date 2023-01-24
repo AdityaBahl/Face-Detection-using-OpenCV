@@ -4,9 +4,9 @@
 
 Python libraries like :-
 
-1. Tkinter :- used for GUI(Graphical User Interface)
-2. cv2 :- OpenCV used for face detection
-3. subprocess:- used to run system level script
+1. **_Tkinter :_** used for GUI(Graphical User Interface)
+2. **_cv2 :_** OpenCV used for face detection
+3. **_subprocess:_** used to run system level script
 
 # Why Face Detection?
 
