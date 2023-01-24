@@ -25,12 +25,11 @@
 ### Applications of Project
 
 ![5](https://user-images.githubusercontent.com/90335449/214316205-98e24d0d-c87b-45cd-8d8d-bdd8a6bf0e17.png)
-![7](https://user-images.githubusercontent.com/90335449/214316256-43d7ddf0-ce84-4ad6-9a77-a99f36377d6f.png)
-![8](https://user-images.githubusercontent.com/90335449/214316341-f6fecb37-5482-4bc9-b17e-711d083d5b71.png)
 
 ### Result
 
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/7.png)
+![7](https://user-images.githubusercontent.com/90335449/214316256-43d7ddf0-ce84-4ad6-9a77-a99f36377d6f.png)
+![8](https://user-images.githubusercontent.com/90335449/214316341-f6fecb37-5482-4bc9-b17e-711d083d5b71.png)
 
 # IMPORTED LIBRARIES
 
