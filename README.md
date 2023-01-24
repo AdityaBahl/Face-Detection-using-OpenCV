@@ -14,7 +14,7 @@ There are several motivations for using face detection with OpenCV, some of whic
 
 1. **_Automating tasks:_** It can be used to automate tasks that require identifying and processing images of human faces. For example, a face detection system could be used to automatically tag friends in a photo album or to index and search a database of images for specific people.
 
-2. Security and surveillance: Face detection can be used in security and surveillance
+2. **_Security and surveillance:_** Face detection can be used in security and surveillance
    applications to identify and track individuals in real-time or in recorded video footage. This can help to detect and prevent crimes, as well as to gather evidence for investigations.
 3. Human-computer interaction: Face detection can be used to enable more natural and intuitive forms of human-computer interaction, such as facial recognition login systems or facial expression analysis for emotional computing.
 4. Research and development: Face detection is a widely studied problem in computer vision and machine learning, and there is ongoing research and development in this area to improve the accuracy and efficiency of face detection algorithms. OpenCV provides an open source platform for researchers and developers to experiment with and contribute to the advancement of face detection technology.
