@@ -1,5 +1,40 @@
 # Face Detection Application using OpenCV and Tkinter GUI
 
+# Stages
+
+### Run via PowerShell
+
+![1](https://user-images.githubusercontent.com/90335449/214316054-a97ec3d4-8650-44d3-812a-ae769a16b1fd.png)
+
+### GUI
+
+![2](https://user-images.githubusercontent.com/90335449/214316082-e9f8fef9-9086-4bda-9c28-aacdb610b5df.png)
+
+### Selection of modes for Image Analysis
+
+![3](https://user-images.githubusercontent.com/90335449/214316102-ab50d2a6-5c86-43d7-bfa8-d6b20eb3bf2d.png)
+![6](https://user-images.githubusercontent.com/90335449/214316119-c3cbbb6b-074c-4da6-8a08-d10c2cf499a0.png)
+![4](https://user-images.githubusercontent.com/90335449/214316163-0e49cf02-939f-451c-99fa-765c47abefd1.png)
+![5](https://user-images.githubusercontent.com/90335449/214316205-98e24d0d-c87b-45cd-8d8d-bdd8a6bf0e17.png)
+![7](https://user-images.githubusercontent.com/90335449/214316256-43d7ddf0-ce84-4ad6-9a77-a99f36377d6f.png)
+![8](https://user-images.githubusercontent.com/90335449/214316341-f6fecb37-5482-4bc9-b17e-711d083d5b71.png)
+
+### About the dev
+
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/6.png)
+
+### About Project
+
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/4.png)
+
+### Applications of Project
+
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/5.png)
+
+### Result
+
+![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/7.png)
+
 # IMPORTED LIBRARIES
 
 Python libraries like :-
@@ -77,36 +112,6 @@ Overall, while OpenCV is a powerful tool for face detection, it does have some l
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
 removing errors is what we must learn. The project may not give accurate results in some cases as
 mentioned above, and there are quite a few correct solutions too, I will explore this domain further.
-
-# Processes or Stages
-
-### Run via PowerShell
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/1.png)
-
-### GUI
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/2.png)
-
-### Selection of modes for Image Analysis
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/3.png)
-
-### About the dev
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/6.png)
-
-### About Project
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/4.png)
-
-### Applications of Project
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/5.png)
-
-### Result
-
-![image](https://github.com/AdityaBahl/Face-Detection-using-OpenCV/blob/master/Steps/7.png)
 
 ## MIT Licence
 
