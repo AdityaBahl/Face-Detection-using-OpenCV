@@ -33,7 +33,7 @@ Overall, OpenCV is a good choice for face detection due to its **_open source na
 
 Here are the steps to detect faces in an image using OpenCV:
 
-1. Import the necessary libraries, such as cv2 for OpenCV and numpy for numerical processing.
+1. Import the necessary libraries, such as **_cv2_** for **_OpenCV_**.
 2. Load the image using the imread function from the cv2 library. This function returns a
    NumPy array representing the image.
 3. Convert the image to grayscale using the cvtColor function from the cv2 library. This is
