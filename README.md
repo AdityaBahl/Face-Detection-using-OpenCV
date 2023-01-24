@@ -5,14 +5,14 @@
 Python libraries like :-
 
 1. **_Tkinter :_** used for GUI(Graphical User Interface)
-2. **_cv2 :_** OpenCV used for face detection
-3. **_subprocess:_** used to run system level script
+2. **_Cv2 :_** OpenCV used for face detection
+3. **_Subprocess:_** used to run system level script
 
 # Why Face Detection?
 
 There are several motivations for using face detection with OpenCV, some of which are:
 
-1. Automating tasks: It can be used to automate tasks that require identifying and processing images of human faces. For example, a face detection system could be used to automatically tag friends in a photo album or to index and search a database of images for specific people.
+1. **_Automating tasks:_** It can be used to automate tasks that require identifying and processing images of human faces. For example, a face detection system could be used to automatically tag friends in a photo album or to index and search a database of images for specific people.
 
 2. Security and surveillance: Face detection can be used in security and surveillance
    applications to identify and track individuals in real-time or in recorded video footage. This can help to detect and prevent crimes, as well as to gather evidence for investigations.
