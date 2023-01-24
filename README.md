@@ -46,8 +46,8 @@ Here are the steps to detect faces in an image using OpenCV:
 6. Iterate through the list of rectangles and draw a rectangle around each face using the
    rectangle function from the cv2 library. You can specify the color and thickness of the
    rectangle using the color and thickness parameters.
-7. Display the image using the imshow function from the cv2 library and wait for the user to
-   close the window using the waitKey function.
+7. Display the image using the **_imshow function_** from the cv2 library and wait for the user to
+   close the window using the **_waitKey function_**.
 
 # Challenges and limitations of OpenCV
 
