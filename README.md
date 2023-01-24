@@ -69,9 +69,8 @@ There are a few limitations to using OpenCV for face detection:
    are designed to detect "typical" faces, and they may not perform as well on faces with
    unusual or extreme appearance, such as very large or small faces, or faces with unusual
    facial features or expressions.
-   Overall, while OpenCV is a powerful tool for face detection, it does have some limitations in terms of
-   performance, customization, and robustness to variations in the input images. These limitations
-   should be taken into consideration when using OpenCV for face detection.
+
+Overall, while OpenCV is a powerful tool for face detection, it does have some limitations in terms of performance, customization, and robustness to variations in the input images. These limitations should be taken into consideration when using OpenCV for face detection.
 
 # Conclusion
 
