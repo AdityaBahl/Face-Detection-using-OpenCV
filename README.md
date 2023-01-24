@@ -53,7 +53,7 @@ Here are the steps to detect faces in an image using OpenCV:
 
 There are a few limitations to using OpenCV for face detection:
 
-1. Performance depends on the quality of the classifier: The performance of the face detection
+1. **_Performance depends on the quality of the classifier:_** The performance of the face detection
    function in OpenCV depends on the quality of the classifier used. If the classifier is not
    trained well or if it is not well-suited to the images it is being applied to, it may not perform
    as well. This can lead to false positives (detecting a face where there is none) or false
