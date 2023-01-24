@@ -23,7 +23,7 @@ There are several motivations for using face detection with OpenCV, some of whic
 There are several reasons why OpenCV is a good choice for face detection:
 
 1. **_OpenCV is open source:_** OpenCV is an open source library, which means that it is free to use and distribute. This makes it an attractive option for developers who want to use it in their projects without incurring any licensing fees.
-2. OpenCV is widely used: OpenCV is a popular library with a large user base and a active developer community. This means that there is a wealth of documentation, tutorials, and examples available online, as well as a strong support network of users and developers who can help with any questions or issues that may arise.
+2. **_OpenCV is widely used:_** OpenCV is a popular library with a large user base and a active developer community. This means that there is a wealth of documentation, tutorials, and examples available online, as well as a strong support network of users and developers who can help with any questions or issues that may arise.
 3. OpenCV is fast and efficient: OpenCV is optimized for real-time performance and is designed to be fast and efficient. This makes it a good choice for applications that require fast face detection, such as security and surveillance systems or human-computer interaction.
 4. OpenCV has a wide range of features: In addition to face detection, OpenCV includes a wide range of other features for image and video processing, such as object detection, image segmentation, and image stitching. This makes it a versatile and powerful library for a wide range of computer vision tasks.
 
